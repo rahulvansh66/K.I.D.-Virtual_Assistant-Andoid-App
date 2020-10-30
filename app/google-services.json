@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "822905000072",
+    "firebase_url": "https://pyrebase-2b2eb.firebaseio.com",
+    "project_id": "pyrebase-2b2eb",
+    "storage_bucket": "pyrebase-2b2eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822905000072:android:97f23985530fcd31",
+        "android_client_info": {
+          "package_name": "com.example.rahulvansh.led_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822905000072-amqqhec370852udotojquu86dn6cim22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahulvansh.led_iot",
+            "certificate_hash": "d1c5b45e9d209192940ef67778a59b8e3aca91d3"
+          }
+        },
+        {
+          "client_id": "822905000072-p37mukhthg2hi8etoa5g1n58s1k5q7mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahulvansh.led_iot",
+            "certificate_hash": "7cf3f499793c8da8a0cde810184c6d940cc771da"
+          }
+        },
+        {
+          "client_id": "822905000072-jrrjef48tp64v46smass2srd90h8bccn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcUlSfSk1kHazBsCT41ipdn-QFi-1KwrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822905000072-jrrjef48tp64v46smass2srd90h8bccn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
